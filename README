@@ -1,3 +1,6 @@
+** This repository is moved to https://github.com/tinyvmi/tinyvmi.git **
+
+
 To run tinyvmi:
 
 1, compile and install Xen from given source code of xen-4.4.0, with XSM enabled. (tested on Ubuntu 14.04 as dom0). 
